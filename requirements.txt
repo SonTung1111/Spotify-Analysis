@@ -1,0 +1,7 @@
+kaggle
+jupyterlab
+pandas
+numpy==2.3.5
+sentence-transformers
+scikit-learn
+torch
