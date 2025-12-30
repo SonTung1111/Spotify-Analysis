@@ -79,7 +79,7 @@ Follow this recommended order to prepare data and reproduce analyses:
 5. `notebooks/machine_learning_modeling.ipynb` — train and evaluate models using the preprocessed data.
 
 **Team / Author**
-- Course: Business Analysis
+- Course: Business Analytics
 - Author(s): Bui Hai Nam 11385021M; Do Ha My 11385031M; Bui Huu Son Tung 11385062M 
 - Instructor: Dr. Ilia Tetin
 - Date: 30/12/2025
